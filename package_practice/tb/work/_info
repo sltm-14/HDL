@@ -1,0 +1,72 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sltm-14\OneDrive\Documentos\Repaso - Veri\Code\package_practice\tb
+vff_d
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 DXx4 work 8 ff_d_pkg 0 22 SZlWCL<Sg``NA:MdMIXIX3
+!i10b 1
+!s100 C1YIznTodadfBZ81mOdOm0
+I6c==TVKTm^[L7FBkB>FIT2
+VAkI?[JmMWia_0U0YRUYY92
+!s105 ff_d_sv_unit
+S1
+Z3 dC:\Users\sltm-14\OneDrive\Documentos\Repaso - Veri\Code\package_practice\tb
+w1627678398
+8../src/ff_d.sv
+F../src/ff_d.sv
+L0 4
+Z4 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z5 !s108 1627678845.086000
+Z6 !s107 tb_ff_d.sv|../src/ff_d.sv|../src/ff_d_pkg.sv|
+Z7 !s90 -reportprogress|300|-f|files.f|
+!s101 -O0
+o-O0
+Xff_d_pkg
+R1
+!i10b 1
+!s100 I`l<?J2IkRNGGn39R;z7z1
+ISZlWCL<Sg``NA:MdMIXIX3
+VSZlWCL<Sg``NA:MdMIXIX3
+S1
+R3
+w1627677710
+8../src/ff_d_pkg.sv
+F../src/ff_d_pkg.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+o-O0
+vtb_ff_d
+R1
+R2
+!i10b 1
+!s100 _X2IY<banzA^nR^k2FAW]2
+IF9e@WeoJa_[GMaQ9d3N7n3
+Vh[eTAe5zCKilP=0f32M6J1
+!s105 tb_ff_d_sv_unit
+S1
+R3
+w1627678839
+8tb_ff_d.sv
+Ftb_ff_d.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+o-O0

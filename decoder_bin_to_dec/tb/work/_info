@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sltm-14\OneDrive\Documentos\Repaso - Veri\Code\decoder_bin_to_dec\tb
+vdec_to_bin
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 Xe:AddAoB0EecoH4FdHZL2
+Ia1GIU8lmG6AW1RHWz1H[e1
+VIXFJ9R@]UBX?c6dCQl3]m2
+!s105 bin_to_dec_sv_unit
+S1
+Z2 dC:\Users\sltm-14\OneDrive\Documentos\Repaso - Veri\Code\decoder_bin_to_dec\tb
+w1628101664
+8../src/bin_to_dec.sv
+F../src/bin_to_dec.sv
+L0 1
+Z3 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z4 !s108 1628101928.157000
+Z5 !s107 tb_bin_to_dec.sv|../src/bin_to_dec.sv|
+Z6 !s90 -reportprogress|300|-f|files.f|
+!s101 -O0
+o-O0
+vtb_bin_to_dec
+R1
+!i10b 1
+!s100 z@X21PXQOX<WHJUVW6OUU3
+IH6LdCkPh6JB^Okl2V]<V22
+VJ^K=<UB5DmG1=cbk=`1@;3
+!s105 tb_bin_to_dec_sv_unit
+S1
+R2
+w1628101535
+8tb_bin_to_dec.sv
+Ftb_bin_to_dec.sv
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+o-O0

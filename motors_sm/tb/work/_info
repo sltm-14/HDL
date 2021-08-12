@@ -1,0 +1,138 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sltm-14\OneDrive\Documentos\Repaso - Veri\HDL-101_Code\motors_sm\tb
+vpwm
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 3Fh]dIjG5Zl3cC;VSU90R3
+IGc]^fdQnPFS@PlAa[6VJ:3
+Vf9Qh379h>j5=ghLWUD0Hl1
+!s105 pwm_sv_unit
+S1
+Z2 dC:\Users\sltm-14\OneDrive\Documentos\Repaso - Veri\HDL-101_Code\motors_sm\tb
+Z3 w1557251275
+8../src/pwm.sv
+F../src/pwm.sv
+L0 3
+Z4 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z5 !s108 1628387845.952000
+Z6 !s107 tb_stpm_full.sv|../src/stpm_full.sv|../src/stepper_motor.sv|../src/pwm.sv|../src/stepper_motor_sm.sv|
+Z7 !s90 -reportprogress|300|-f|files.f|
+!s101 -O0
+o-O0
+vstepper_motor
+R1
+!i10b 1
+!s100 nXkCTlLd;9aiL0I2=<gic3
+I=U[LfcQ_7X0Z>e[NGIOJf1
+V36nzH>AGlADC6;:Ki1j:_3
+!s105 stepper_motor_sv_unit
+S1
+R2
+R3
+8../src/stepper_motor.sv
+F../src/stepper_motor.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+o-O0
+vstepper_motor_sm
+R1
+!i10b 1
+!s100 [JhCm[Y=]7N_VO1HW3ilH0
+I^`CLzI`2_dKk]bVdSXlB`1
+VERE32R18F2Dl9F2Q1eJci3
+!s105 stepper_motor_sm_sv_unit
+S1
+R2
+w1628297135
+8../src/stepper_motor_sm.sv
+F../src/stepper_motor_sm.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+o-O0
+vstpm_full
+R1
+!i10b 1
+!s100 gAGVSR@]BAn`h3gB86?z[3
+IJGzz[4iWZJ3MCT;fL4jTW2
+Ve;69aWRZZ6bhzodRAmhiI2
+!s105 stpm_full_sv_unit
+S1
+R2
+w1628266510
+8../src/stpm_full.sv
+F../src/stpm_full.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+o-O0
+vtb_stpm_full
+R1
+DXx4 work 20 tb_stpm_full_sv_unit 0 22 9Obg:E5@lfn78nafRL4[J0
+V6CiLBN5X5H^GZaFk]n_C;0
+r1
+!s85 0
+31
+!i10b 1
+!s100 TROFPLTb[bBGma0SaRbN[1
+I[W6Engc_L_lcjTkCPKKLS3
+!s105 tb_stpm_full_sv_unit
+S1
+R2
+Z8 w1628387841
+Z9 8tb_stpm_full.sv
+Z10 Ftb_stpm_full.sv
+L0 10
+R4
+R5
+R6
+R7
+!s101 -O0
+o-O0
+Xtb_stpm_full_sv_unit
+R1
+V9Obg:E5@lfn78nafRL4[J0
+r1
+!s85 0
+31
+!i10b 1
+!s100 I:a2d@fSCiP>U6ZeoMPbT2
+I9Obg:E5@lfn78nafRL4[J0
+!i103 1
+S1
+R2
+R8
+R9
+R10
+L0 4
+R4
+R5
+R6
+R7
+!s101 -O0
+o-O0

@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sltm-14\OneDrive\Documentos\Repaso - Veri\HDL-101_Code\alu_w_files\tb
+vALU
+!i10b 1
+!s100 Y?D9k4`HET5N[W3Y1iFZ>2
+I0@9lSG<GkY8I@YU[8g>UG2
+VB=zo^JIiD7`JY90E6WJID3
+Z1 dC:\Users\sltm-14\OneDrive\Documentos\Repaso - Veri\HDL-101_Code\alu_w_files\tb
+w1628126689
+8../src/ALU.v
+F../src/ALU.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z3 !s108 1628126708.594000
+Z4 !s107 tb2_ALU.v|../src/ALU.v|
+Z5 !s90 -reportprogress|300|-f|files.f|
+!s101 -O0
+o-O0
+n@a@l@u
+vtb2_ALU
+!i10b 1
+!s100 deNaQnQ5=Y=QOFTfRVR_K0
+ITSNMY839e]9d0VfM4K>kO1
+VkI@ViKngXiL5c]3FAoVNT0
+R1
+w1628115281
+8tb2_ALU.v
+Ftb2_ALU.v
+L0 2
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+o-O0
+ntb2_@a@l@u
